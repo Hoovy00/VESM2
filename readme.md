@@ -1,6 +1,7 @@
 # Myndband
 
 # Lýsing og höfundir
+Fortune teller eins og Zoltar. Kúla sem lísist upp og skjálfar. Hendur sem færa sig yfir kúluna. Hátalari sem talar og kjálki sem hreyfist í takt.
 -Einar, Kjartan, Pétur, Sandra
 
 # Ljósmyndir af mekaník, samsettningu á leikmunum.
