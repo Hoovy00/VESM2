@@ -1,7 +1,7 @@
 # Myndband
 
 # Lýsing og höfundir
-Einar, Kjartan, Pétur, Sandra
+-Einar, Kjartan, Pétur, Sandra
 
 # Ljósmyndir af mekaník, samsettningu á leikmunum.
 
