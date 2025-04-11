@@ -1,0 +1,1 @@
+Pétur, Einar, Sandra, Kjartan
