@@ -7,7 +7,8 @@ Fortune teller eins og Zoltar. Kúla sem lísist upp og skjálfar. Hendur sem f�
 # Ljósmyndir af mekaník, samsettningu á leikmunum.
 
 # Íhlutalisti, allir íhlutir sem notaðir eru í verkefnið.
-
+95mm (eði minni) Led Ring
+2 ESP32
 # Flæðirit (e. flow chart) af senu.
 
 # Skjámynd af Node-Red flæði og mælaborði. Skila JSON skrá.
