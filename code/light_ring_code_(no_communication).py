@@ -1,3 +1,5 @@
+# This code determines the color of the light ring, so far there is no multi device communication, meaning we have to update it to also tell the other computer whether to give a good, bad, or neutral result
+
 from machine import Pin
 from neopixel import NeoPixel
 from time import sleep
