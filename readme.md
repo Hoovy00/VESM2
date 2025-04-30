@@ -16,5 +16,3 @@ Fortune teller eins og Zoltar. Kúla sem lísist upp og skjálfar. Hendur sem f�
 # Yfirlitsmynd af tengingum íhluta fyrir leikmuni draw.io.
 
 # Hönnunarteikningar (til prentunar) 2d og eða 3d teikningar og model (.stl skráin).
-
-# Tenglar á kóðaskrár vel commentað.
