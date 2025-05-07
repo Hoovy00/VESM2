@@ -1,3 +1,5 @@
+# Code that uses a button to activate with a button, can be worked to include other sensors as well, still does not communicate the state
+
 from machine import Pin
 from neopixel import NeoPixel
 from time import sleep
