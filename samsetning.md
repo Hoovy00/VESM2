@@ -1,0 +1,3 @@
+# Samsetning
+
+Spádómsmaðurinn er samsettur af 3d prentaðari hauskúpu, 3d prentuðum kjálka ...
