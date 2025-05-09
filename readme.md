@@ -10,7 +10,7 @@ Fortune teller eins og Zoltar. Kúla sem lísist upp og skjálfar. Hendur sem f�
 95mm (eði minni) Led Ring
 2 ESP32
 # Flæðirit (e. flow chart) af senu.
-
+<img src="/designs/Half_finished_flowchart.drawio.png"></img>
 # Skjámynd af Node-Red flæði og mælaborði. Skila JSON skrá.
 
 # Yfirlitsmynd af tengingum íhluta fyrir leikmuni draw.io.
