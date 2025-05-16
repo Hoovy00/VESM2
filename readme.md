@@ -8,11 +8,16 @@ Fortune teller eins og Zoltar. Kúla sem lísist upp. Hendur sem færa sig yfir 
 
 # Íhlutalisti, allir íhlutir sem notaðir eru í verkefnið.
 95mm Led Ring
+<br>
 DFPlayer mini mp3 player module
+<br>
 Raspberry Pi Zero 2 W
+<br>
 Audio converter and Amplifier module,
 2 Basic Speakers
+<br>
 2 RGB led modules (for eyes)
+<br>
 2 Servo Motors
 <br>
 3 ESP32
