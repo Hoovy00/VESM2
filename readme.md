@@ -5,6 +5,13 @@ Fortune teller eins og Zoltar. Kúla sem lísist upp. Hendur sem færa sig yfir 
 -Einar, Kjartan, Pétur, Sandra
 
 # Ljósmyndir af mekaník, samsettningu á leikmunum.
+Samsetning ljós í kúlu 
+<br>
+<img src="/images/IMG_20250516_120430.jpg"></img>
+<br>
+Kúla lýst upp
+<br>
+<img src="/images/IMG_20250516_120504.jpg"></img>
 
 # Íhlutalisti, allir íhlutir sem notaðir eru í verkefnið.
 95mm Led Ring
