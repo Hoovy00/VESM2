@@ -14,18 +14,18 @@ Kúla lýst upp
 <img src="/images/IMG_20250516_120504.jpg"></img>
 
 # Íhlutalisti, allir íhlutir sem notaðir eru í verkefnið.
-95mm Led Ring
+95mm Led Ring 1X
 <br>
-DFPlayer mini mp3 player module
+DFPlayer mini mp3 player module 1X
 <br>
-Raspberry Pi Zero 2 W
+Raspberry Pi Zero 2 W 1X
 <br>
 Audio converter and Amplifier module,
-2 Basic Speakers
+2 Basic Speakers 1X
 <br>
-2 RGB led modules (for eyes)
+2 RGB led modules (for eyes) 2X per auga
 <br>
-2 Servo Motors
+2 Servo Motors 3X
 <br>
 3 ESP32 4X
 <br>
