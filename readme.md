@@ -27,7 +27,7 @@ Audio converter and Amplifier module,
 <br>
 2 Servo Motors
 <br>
-3 ESP32
+4 ESP32
 <br>
 3D prent eins og vistuð í designs directory
 # Flæðirit (e. flow chart) af senu.
