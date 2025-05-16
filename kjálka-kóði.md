@@ -1,3 +1,4 @@
+```
 import time
 import machine
 from servo import Servo
@@ -12,3 +13,4 @@ while True:
     time.sleep(0.1)
     my_servo.write_angle(150) # 150 - opin munur
     time.sleep(0.1)
+```
