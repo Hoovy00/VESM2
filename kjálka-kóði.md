@@ -14,3 +14,5 @@ while True:
     my_servo.write_angle(150) # 150 - opin munur
     time.sleep(0.1)
 ```
+
+- Sandra
