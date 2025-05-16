@@ -33,7 +33,8 @@ Audio converter and Amplifier module,
 # Flæðirit (e. flow chart) af senu.
 <img src="/designs/Half_finished_flowchart.drawio.png"></img>
 # Skjámynd af Node-Red flæði og mælaborði. Skila JSON skrá.
-
+[Link að  users.json](https://github.com/Hoovy00/VESM2/tree/main/users.json) -
+[Link að audio.json](https://github.com/Hoovy00/VESM2/tree/main/audio.json)
 # Yfirlitsmynd af tengingum íhluta fyrir leikmuni draw.io.
 
 # Hönnunarteikningar (til prentunar) 2d og eða 3d teikningar og model (.stl skráin).
