@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "mood_index": 50,
+      "loneliness_index": 0,
+      "last_visit": [2007, 09, 12, 10, 45]
+    },
+    {
+      "id": 1,
+      "last_visit": [2007, 09, 12, 10, 45],
+      "visit_count": 0,
+      "likeability": 50,
+      "previous_topic": "something"
+    },
+    {
+      "id": 2,
+      "last_visit": "time_format here",
+      "visit_count": 0,
+      "likeability": 50,
+      "previous_topic": "something"
+    }
+  ]
+}

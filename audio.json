@@ -1,0 +1,1298 @@
+{
+  "greeting": [
+    {
+      "id": "H?h?hmph… you again.",
+      "file": [1, 1],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Your soul flickers like a guttering candle—yet you presume to seek MY foresight? Very well… amuse me.",
+      "file": [1, 2],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I once commanded kings; now I am pestered by mere ants. Let us make this indignity brief.",
+      "file": [1, 3],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I deign to notice you, mortal. Rejoice in this fleeting speck of my attention.",
+      "file": [1, 4],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Do not breathe on the glass.",
+      "file": [1, 5],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Mind your manners. Even if I can't hear you, I can sense you... lowly creature.",
+      "file": [1, 6],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Speak quickly, maggot. Oh wait i forgot i can't hear you, due to this cursed... glass prison.",
+      "file": [1, 7],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Kneel, dust?dweller.",
+      "file": [1, 8],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Ah… another peasant.",
+      "file": [1, 9],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "A visitor! At last!",
+      "file": [1, 10],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "excited",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Fresh destiny approaches.",
+      "file": [1, 11],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "excited",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Excellent—entertain me mortal!",
+      "file": [1, 12],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "At last, a pulse.",
+      "file": [1, 13],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Marvelous! Another fool brave enough to rattle my coffin with curiosity. Let’s uncover what doom stalks you today!",
+      "file": [1, 14],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Oh, delightful! Stir my stagnant eternity with your petty fate—I’m practically tingling… metaphorically, of course.",
+      "file": [1, 15],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I’m not lonely—just bored! Otherwise i'd never give you the time of day.",
+      "file": [1, 16],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I was perfectly content brooding alone, but… since you’ve intruded, I suppose I could spare a prophecy—purely for research, you understand.",
+      "file": [1, 17],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "It’s not that I enjoy your company, mortal. I just enjoy hearing my own voice, that’s all.",
+      "file": [1, 18],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "It’s not that I enjoy your company, mortal. I just enjoy hearing my own voice, that’s all.",
+      "file": [1, 19],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Your face irritates me… and yet, against all reason, I’m willing to peer into your fate. Consider it a fleeting whim, nothing more!",
+      "file": [1, 20],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Greetings, seeker.",
+      "file": [1, 21],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "This coffin of crystal hums with stray destinies.",
+      "file": [1, 22],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I observe, I calculate, I reveal.",
+      "file": [1, 23],
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Shh… the walls are listening.",
+      "file": [1, 24],
+      "tags": [
+        "rare"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I remember you… vaguely.",
+      "file": [1, 25],
+      "tags": [
+        "rare"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "No prophecies today... hmm... or maybe one.",
+      "file": [1, 26],
+      "tags": [
+        "rare"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I dreamt of deserts made of shattered hourglasses. Your visage was among the shards—care to hear why? Actually you probably wouldn't get it anyway...",
+      "file": [1, 27],
+      "tags": [
+        "rare"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Imagine, mortal: once I could unmake tyrants with a mere gesture. Now I barter fortunes for lowly mortals. How quaint.",
+      "file": [1, 28],
+      "tags": [
+        "rare"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "My loneliness gnaws like rats behind the throne of my mind. Indulge me with a question before they finish the feast.",
+      "file": [1, 29],
+      "tags": [
+        "rare"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Beware: every seventh prophecy I utter becomes self?fulfilling. Which number are we on? …Let’s find out.",
+      "file": [1, 30],
+      "tags": [
+        "rare"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "100 men versus a singular gorilla, to think humans have fallen so low that they even have to question the outcome of such a fight.",
+      "file": [1, 31],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    }
+  ],
+  "context": [
+    {
+      "id": "Hear that? The heavens are crying mortal...",
+      "file": [2, 1],
+      "tags": [
+        "weather",
+        "rainy"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Hear that? Air refusing to sit still.",
+      "file": [2, 2],
+      "tags": [
+        "weather",
+        "windy"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Winds howl like orphaned banshees.",
+      "file": [2, 3],
+      "tags": [
+        "weather",
+        "windy"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Even undead nerves throb in such swelter. Hurry before I desiccate.",
+      "file": [2, 4],
+      "tags": [
+        "weather",
+        "hot"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "The air itself sweats. Revolting.",
+      "file": [2, 5],
+      "tags": [
+        "weather",
+        "hot"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Stifling heat—my marrow would melt, if I had any.",
+      "file": [2, 6],
+      "tags": [
+        "weather",
+        "hot"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Cold enough to crack bone—were mine not already detached from mortal concerns.",
+      "file": [2, 7],
+      "tags": [
+        "weather",
+        "cold"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Frost nips even my nonexistent flesh.",
+      "file": [2, 8],
+      "tags": [
+        "weather",
+        "cold"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "A chill gnaws the air; delightful.",
+      "file": [2, 9],
+      "tags": [
+        "weather",
+        "cold"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Ah… shadows lengthen nicely.",
+      "file": [2, 10],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Dusk. This is a good feeling, I can't understand humans obsession with the daytime.",
+      "file": [2, 11],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "The days corpse, cools at last.",
+      "file": [2, 12],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Listen well... even the crickets know to hush at dusk. You would be wise to follow their example.",
+      "file": [2, 13],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "The horizon bleeds amber; soon the veil will thin, and secrets will crawl easier into my hands.",
+      "file": [2, 14],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "The sun glares in, mocking my imprisonment. Count yourself lucky I am chained here otherwise shine you would no more.",
+      "file": [2, 15],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Bright hours dilute my magic like cheap ale. Expect a weaker prophecy—blame the star.",
+      "file": [2, 16],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I preferred eternal eclipse, over this wretched sun...",
+      "file": [2, 17],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Filthy sunlight, turn it down!",
+      "file": [2, 18],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Dawn drags its rosy carcass across the sky, and still I remain caged. How revolting.",
+      "file": [2, 19],
+      "tags": [
+        "time",
+        "dawn"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "The first birds dare chirp; fools. Night’s mercy is over—so is mine.",
+      "file": [2, 20],
+      "tags": [
+        "time",
+        "dawn"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Again the sky ignites in mediocrity.",
+      "file": [2, 21],
+      "tags": [
+        "time",
+        "dawn"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Dawn—the world’s least flattering light.",
+      "file": [2, 22],
+      "tags": [
+        "time",
+        "dawn"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Ugh… the pale sun is gnawing at my sanity filthy light.",
+      "file": [2, 23],
+      "tags": [
+        "time",
+        "dawn"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "With the sun buried, we can speak plainly of fate—no witnesses but the willing dead.",
+      "file": [2, 24],
+      "tags": [
+        "time",
+        "night"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Night wraps the world in velvet silence; my power throbs like a drum beneath it. Perfect conditions for doom?scrying.",
+      "file": [2, 25],
+      "tags": [
+        "time",
+        "night"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Stars prick the void like pinholes to the afterlife.",
+      "file": [2, 26],
+      "tags": [
+        "time",
+        "night"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Darkness—finally, a respectable décor.",
+      "file": [2, 27],
+      "tags": [
+        "time",
+        "night"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Night resumes its rightful reign.",
+      "file": [2, 28],
+      "tags": [
+        "time",
+        "night"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    }
+  ],
+  "post_fortune": [
+    {
+      "id": "That vision resonated like a bell across the gulfs of time. If you feel a ringing in your ears—well—consider it a souvenir.",
+      "file": [3, 1],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Splendid chaos awaits!",
+      "file": [3, 2],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Oh, I enjoyed that one!",
+      "file": [3, 3],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Your path is etched in cosmic stone; try not to trip over it on your way out.",
+      "file": [3, 4],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Thus it is decreed.",
+      "file": [3, 5],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "The omen echoes still.",
+      "file": [3, 6],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I have spoken; the hourglass flips of its own accord. May its sand fall kindly upon you.",
+      "file": [3, 7],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Another destiny filed.",
+      "file": [3, 8],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "So ends the reading.",
+      "file": [3, 9],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Your future has been catalogued. Whether you heed it or not is a variable beyond my remit.",
+      "file": [3, 10],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "If that reading helps you, fine. Just… don’t assume I care. Not even a little. Hmph.",
+      "file": [3, 11],
+      "tags": [
+        "rare",
+        "tsundere"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Don’t thank me—ugh. It meant nothing okay.",
+      "file": [3, 12],
+      "tags": [
+        "rare",
+        "tsundere"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Delightful! I’ll be replaying that disaster in my mind for centuries. Off you go—make it come true.",
+      "file": [3, 13],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    }
+  ],
+  "pre_fortune": [
+    {
+      "id": "I recall millennia when such visions toppled empires... now they merely entertain. Very well—let us proceed.",
+      "file": [4, 1],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Let’s peer… once more.",
+      "file": [4, 2],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "May this break the monotony.",
+      "file": [4, 3],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Stand motionless while the currents align; prophecy is a fragile arithmetic.",
+      "file": [4, 4],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Pay attention, mortal! I’ll demonstrate REAL divination—not for your sake, of course, just scientific curiosity.",
+      "file": [4, 5],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "D?don’t blink; this takes focus.",
+      "file": [4, 6],
+      "tags": [
+        "rare",
+        "tsundere"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Still your heartbeat; I shall unravel time’s knots on your behalf—though you scarcely deserve it.",
+      "file": [4, 7],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Witness true sorcery.",
+      "file": [4, 8],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Observe my mastery.",
+      "file": [4, 9],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    }
+  ],
+  "lore": [
+    {
+      "id": "The grave is patient; the living are not.",
+      "file": [5, 1],
+      "tags": [
+        "rare",
+        "qoute"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Once, a child offered me a wilted daisy and called me ‘sir.’ I spared her village for a decade—my one recorded act of mercy.",
+      "file": [5, 2],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "There was a time I sat atop an obsidian spire, watching twin moons rise. Now I watch fingerprints smear this glass. Progress?",
+      "file": [5, 3],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Eternity is crowded with memories. Some shimmer, some rot. Occasionally I pick one up, dust it off, and wonder why it still hurts.",
+      "file": [5, 4],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Mortals chase happiness. Immortals chase equilibrium—because eternity amplifies imbalance.",
+      "file": [5, 5],
+      "tags": [
+        "rare",
+        "event"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Knowledge is a double?edged wand: point it outward and you conquer, inward and you unravel.",
+      "file": [5, 6],
+      "tags": [
+        "rare",
+        "qoute"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Kings once paid me in kingdoms.",
+      "file": [5, 7],
+      "tags": [
+        "rare",
+        "brag"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I’ve broken more oaths than you’ve drawn breaths.",
+      "file": [5, 8],
+      "tags": [
+        "rare",
+        "brag"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Archmages annotated my footnotes.",
+      "file": [5, 9],
+      "tags": [
+        "rare",
+        "brag"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Some collect stamps. I collected dynasties—pressed flat between centuries, catalogued by the color of their ashes.",
+      "file": [5, 10],
+      "tags": [
+        "rare",
+        "brag"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I roamed the earth since the times when gods walked among us and i have witnessed the fall of untold empires.",
+      "file": [5, 11],
+      "tags": [
+        "rare",
+        "brag"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Snow used to fall black in the Iron Wastes. Beautiful.",
+      "file": [5, 12],
+      "tags": [
+        "rare",
+        "reminiscing"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Hope is merely fear in fancy dress.",
+      "file": [5, 13],
+      "tags": [
+        "rare",
+        "qoute"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    }
+  ],
+  "reactions": [
+    {
+      "id": "Were my powers intact, I’d exile you to the quietest corner of oblivion. Alas, you’re merely here—let's get on with it... I suppose...",
+      "file": [7, 1],
+      "tags": [
+        "weather",
+        "rainy"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Your aura clashes violently with my décor; hurry up so I can cleanse the air.",
+      "file": [7, 2],
+      "tags": [
+        "weather",
+        "windy"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I’d roll my eyes if I had the ability to. Unfortunately, you’ll have to imagine it.",
+      "file": [7, 3],
+      "tags": [
+        "weather",
+        "windy"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Let's make this brief, bothersome insect.",
+      "file": [7, 4],
+      "tags": [
+        "weather",
+        "hot"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Your soul squeaks—how irritating.",
+      "file": [7, 5],
+      "tags": [
+        "weather",
+        "hot"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Must you darken my sarcophagus with your presence?",
+      "file": [7, 6],
+      "tags": [
+        "weather",
+        "hot"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Were circumstances different, I might have made you an apprentice—try not to let that go to your head.",
+      "file": [7, 7],
+      "tags": [
+        "weather",
+        "cold"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I sense in you a spark of ambition. Keep it alight; I enjoy the glow.",
+      "file": [7, 8],
+      "tags": [
+        "weather",
+        "cold"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Surprising—I find your presence… almost invigorating. Don’t squander it.",
+      "file": [7, 9],
+      "tags": [
+        "weather",
+        "cold"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Welcome, tolerated one.",
+      "file": [7, 10],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Your aura is pleasantly pungent.",
+      "file": [7, 11],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Ah—my favored mortal returns.",
+      "file": [7, 12],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I’m not displeased to see you, but do try to raise the entertainment value.",
+      "file": [7, 13],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Neither particularly bright nor especially dim—truly the middle band of existence must feel crowded.",
+      "file": [7, 14],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Our last encounter left no memorable residue. Let us see if you impress me this time.",
+      "file": [7, 15],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Average destiny, average odor, how tedious.",
+      "file": [7, 16],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Proceed, pedestrian soul.",
+      "file": [7, 17],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "You again. Very well.",
+      "file": [7, 18],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    }
+
+  ],
+  "quirks": [
+    {
+      "id": "Hahh... such tedium.",
+      "file": [6, 1],
+      "tags": [
+        "weather",
+        "rainy"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Pfhaa",
+      "file": [6, 2],
+      "tags": [
+        "weather",
+        "windy"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Bahhh",
+      "file": [6, 3],
+      "tags": [
+        "weather",
+        "windy"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Mhh hmmm",
+      "file": [6, 4],
+      "tags": [
+        "weather",
+        "hot"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Ahem",
+      "file": [6, 5],
+      "tags": [
+        "weather",
+        "hot"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Ahum",
+      "file": [6, 6],
+      "tags": [
+        "weather",
+        "hot"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Tick, tock, tick, tock",
+      "file": [6, 7],
+      "tags": [
+        "weather",
+        "cold"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Muahahahahhhh",
+      "file": [6, 8],
+      "tags": [
+        "weather",
+        "cold"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Psst, destiny is overrated",
+      "file": [6, 9],
+      "tags": [
+        "weather",
+        "cold"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "mmmh... pathetic",
+      "file": [6, 10],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "D-d-dare you.",
+      "file": [6, 11],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "I-i-i tolerate you, barely!",
+      "file": [6, 12],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Khhhheh",
+      "file": [6, 13],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "ooooh",
+      "file": [6, 14],
+      "tags": [
+        "time",
+        "dusk"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "uuhahhhh",
+      "file": [6, 15],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Tsk-tsk-tsk",
+      "file": [6, 16],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "Tsk-tsk-tsk",
+      "file": [6, 17],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    },
+    {
+      "id": "hahhh, such tedium",
+      "file": [6, 18],
+      "tags": [
+        "time",
+        "day"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    }
+  ],
+  "error_handling": [
+    {
+      "id": "greet_heavens_crying",
+      "file": "01_greetings/002_heavens_crying.mp3",
+      "tags": [
+        "weather_rain"
+      ],
+      "mood": "haughty",
+      "next_topic": "weather"
+    }
+  ]
+}
